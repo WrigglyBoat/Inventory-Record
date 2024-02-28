@@ -1,0 +1,30 @@
+12-0012 Bill Gates 72.45 83
+15-0967 Michael Jackson 22.10 28
+89-9281 Donald Duck 12.67 41
+80-9375 Lucious Leftfoot 8.75 37
+75-8463 Uncle Ruckus 10.50 65
+47-8429 Alex Rodriguez 8.84 34
+11-0987 Babe Ruth 64.64 78
+45-9764 Clyde Dexter 62.97 75
+77-9231 Fred Couples 45.21 43
+55-3233 Greg Norman 78.57 38
+47-0022 Honus Wagner 16.76 98
+84-8847 Isiah Thomas 46.53 69
+57-8221 Jack Nicklaus 25.35 52
+74-8347 Joe DiMaggio 29.62 88
+64-3523 Joe Montana 66.06 95
+93-8237 Julius Irving 50.71 72
+45-2345 Lawrence Taylor 82.16 95
+90-7426 Marilyn Smith 62.20 97
+57-8976 Michael Jordan 22.20 56
+53-7425 Mildred Zaharias 79.47 72
+34-5564 Nolan Ryan 71.98 44
+90-3478 Roger Clemens 73.57 20
+77-7421 Sam Snead 41.89 62
+78-8569 Walter Payton 76.51 43
+56-7654 William Perry 39.45 45
+39-9875 Willy Mays 35.56 30
+56-4722 Wilt Chamberlain 42.65 91
+33-2345 David Baker 81.73 74
+ 
+ 
